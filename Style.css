@@ -1,0 +1,26 @@
+.pandy:hover IMG{
+    opacity:0.7;}
+
+    .camel:hover IMG{
+        opacity:0.7;}
+
+    .chameleon:hover IMG{
+        opacity:0.7;}
+
+    .flying-cicada:hover IMG{
+        opacity:0.7;}
+
+    .pigeon:hover IMG{
+        opacity:0.7;}
+
+    .teddy-bear:hover IMG{
+        opacity:0.7;}
+
+    .panda:hover IMG{
+        opacity:0.7;}
+
+    .header{
+        display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
